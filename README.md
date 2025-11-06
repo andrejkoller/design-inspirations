@@ -9,7 +9,7 @@ A collection of websites to spark your creativity.
 - [Muzli](https://muz.li)
 - [Siteinspire](https://www.siteinspire.com)
 
-### Component Libraries
+### UI Component Libraries
 
 - [Omelia UI](https://omeliaui.com)
 - [Shadcn UI](https://ui.shadcn.com)
