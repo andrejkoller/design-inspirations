@@ -33,3 +33,12 @@ A collection of websites to spark your creativity.
 
 - [My Fonts](https://www.myfonts.com)
 - [Google Fonts](https://fonts.google.com)
+
+### Open source design & code
+
+- [CodePen](https://codepen.io)
+
+### CSS Codes
+
+- [Freefrontend](https://freefrontend.com)
+- [Animista - CSS Animation](http://animista.net)
