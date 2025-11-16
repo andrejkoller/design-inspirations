@@ -19,6 +19,7 @@ A collection of websites to spark your creativity.
 - [Magic UI](https://magicui.design)
 - [Coss UI](https://coss.com/ui)
 - [ElevenLabs UI](https://ui.elevenlabs.io)
+- [8bitcn](https://www.8bitcn.com)
 
 ### Icons
 
