@@ -20,6 +20,7 @@ A collection of websites to spark your creativity.
 - [Coss UI](https://coss.com/ui)
 - [ElevenLabs UI](https://ui.elevenlabs.io)
 - [8bitcn](https://www.8bitcn.com)
+- [Aceternity UI](https://ui.aceternity.com)
 
 ### Icons
 
