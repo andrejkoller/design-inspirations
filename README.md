@@ -30,6 +30,8 @@ A collection of websites to spark your creativity.
 - [Lucide](https://lucide.dev)
 - [Material Icons](https://fonts.google.com/icons)
 - [The Noun Project](https://thenounproject.com)
+- [Remix Icon](https://remixicon.com)
+- [Iconify](https://iconify.design)
 
 ### Fonts
 
