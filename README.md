@@ -37,6 +37,15 @@ A collection of websites to spark your creativity.
 
 - [My Fonts](https://www.myfonts.com)
 - [Google Fonts](https://fonts.google.com)
+- [Geist Font](https://vercel.com/font)
+
+### CMS
+
+- [Framer](https://www.framer.com)
+- [WordPress](https://wordpress.com)
+- [Webflow](https://webflow.com)
+- [Wix](https://www.wix.com)
+- [Shopify](https://www.shopify.com)
 
 ### Open source design & code
 
