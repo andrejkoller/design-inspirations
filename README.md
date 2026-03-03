@@ -1,5 +1,5 @@
-# Design Inspirations
-A collection of websites to spark your creativity.
+# Design Resources
+A curated collection of tools and platforms for modern web design and development.
 
 ### Design Collection Websites
 
