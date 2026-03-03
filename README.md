@@ -56,6 +56,9 @@ A collection of websites to spark your creativity.
 - [Webflow](https://webflow.com)
 - [Wix](https://www.wix.com)
 - [Shopify](https://www.shopify.com)
+- [Woo](https://woocommerce.com)
+- [Shopware](https://www.shopware.com)
+- [Magnolia](https://www.magnolia-cms.com)
 
 ### Open source design & code
 
