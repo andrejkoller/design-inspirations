@@ -21,6 +21,10 @@ A collection of websites to spark your creativity.
 - [ElevenLabs UI](https://ui.elevenlabs.io)
 - [8bitcn](https://www.8bitcn.com)
 - [Aceternity UI](https://ui.aceternity.com)
+- [Radix UI](https://www.radix-ui.com)
+- [Base UI](https://base-ui.com)
+- [Daisy UI](https://daisyui.com)
+- [Warcraftcn UI](https://www.warcraftcn.com)
 
 ### Icons
 
@@ -38,6 +42,12 @@ A collection of websites to spark your creativity.
 - [My Fonts](https://www.myfonts.com)
 - [Google Fonts](https://fonts.google.com)
 - [Geist Font](https://vercel.com/font)
+
+### Charts
+
+- [Chart.js](https://www.chartjs.org)
+- [Apex Charts](https://apexcharts.com)
+- [High Charts](https://www.highcharts.com)
 
 ### CMS
 
